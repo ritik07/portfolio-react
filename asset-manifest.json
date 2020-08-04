@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.83aa18d1.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.2950c0e0.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.2950c0e0.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.c94dc782.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.c94dc782.js.map",
+    "static/css/2.7b7e20e9.chunk.css": "/portfolio-react/static/css/2.7b7e20e9.chunk.css",
+    "static/js/2.178ae363.chunk.js": "/portfolio-react/static/js/2.178ae363.chunk.js",
+    "static/js/2.178ae363.chunk.js.map": "/portfolio-react/static/js/2.178ae363.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "precache-manifest.095132570aacafef664aef9d644db5d6.js": "/portfolio-react/precache-manifest.095132570aacafef664aef9d644db5d6.js",
+    "service-worker.js": "/portfolio-react/service-worker.js",
+    "static/css/2.7b7e20e9.chunk.css.map": "/portfolio-react/static/css/2.7b7e20e9.chunk.css.map",
+    "static/css/main.83aa18d1.chunk.css.map": "/portfolio-react/static/css/main.83aa18d1.chunk.css.map",
+    "static/js/2.178ae363.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.178ae363.chunk.js.LICENSE.txt",
+    "static/media/Capture.PNG": "/portfolio-react/static/media/Capture.4657d4ce.PNG",
+    "static/media/ajitminerals.PNG": "/portfolio-react/static/media/ajitminerals.ba5465be.PNG",
+    "static/media/download.png": "/portfolio-react/static/media/download.4b773988.png",
+    "static/media/font-awesome.min.css": "/portfolio-react/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/gr2.PNG": "/portfolio-react/static/media/gr2.bce3a906.PNG",
+    "static/media/grtextile.PNG": "/portfolio-react/static/media/grtextile.4efc7cb4.PNG",
+    "static/media/reckon2.PNG": "/portfolio-react/static/media/reckon2.abc5f083.PNG",
+    "static/media/shreearts.PNG": "/portfolio-react/static/media/shreearts.9d7d3647.PNG",
+    "static/media/skillimg.jpg": "/portfolio-react/static/media/skillimg.df3dd19d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c94dc782.js",
+    "static/css/2.7b7e20e9.chunk.css",
+    "static/js/2.178ae363.chunk.js",
+    "static/css/main.83aa18d1.chunk.css",
+    "static/js/main.2950c0e0.chunk.js"
+  ]
+}
