@@ -37,7 +37,7 @@ const Skills = () => {
                                 </Fade>
                                 <Fade top delay={450}>
                                 <div className="skill_text text-align-l" style={{ color: theme.text }}>
-                                    <p>dnsalk cxKLCnLKC ZkczMK cCmkcz ZC ZKCmzCZMCzKcmKLC zCKzMcklZ Cklz czKc zKLCmzKLCmzKc zKLcmzkczC ZKCnzkcz CzCmzKLCmzKC zczKcmzK:CmzkC.<br /></p>
+                                    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea laboriosam, corporis doloremque ducimus repudiandae sit, voluptas ipsa magni saepe deserunt nihil voluptate accusamus ab nostrum! Dolorum, repudiandae ratione. Quo, modi. </p>
                                 </div>
                                 </Fade>
                                 <div>

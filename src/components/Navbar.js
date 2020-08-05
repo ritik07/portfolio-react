@@ -11,7 +11,7 @@ const Navbar = () => {
       myFunction();
     return ( 
         <div>
-             <nav className="navbar navbar-light navbar-expand-md sticky-top shadow" style={{backgroundColor: theme.navbar}}>
+             <nav className="navbar navbar-light navbar-expand-md sticky-top shadow" style={{backgroundColor: theme.navbar,  position: "fixed",top: 0,width: "100%"}}>
         <div className="container-fluid">
             <button style={{backgroundColor: theme.mobilenavbtn}} data-toggle="collapse" className="navbar-toggler" data-target="#navcol-1">
                 <span className="sr-only">Toggle navigation</span><span className="navbar-toggler-icon">

@@ -43,8 +43,7 @@ const About = () => {
                             <h1 className="d-flex justify-content-center justify-content-xl-start about_subtitle" style={{color:theme.text}}>I'am Ritik</h1>
                         </div>
                         <div>
-                            <p className="text-justify about_text" style={{color:theme.text}}>dnsalk cxKLCnLKC ZkczMK cCmkcz ZC ZKCmzCZMCzKcmKLC zCKzMcklZ Cklz czKc zKLCmzKLCmzKc zKLcmzkczC ZKCnzkcz CzCmzKLCmzKC zczKcmzK:CmzkC zKczMckzcz ckzMczMckjsnfisd sCZKCmzKCmkzCmz CklzCmzKCzK czKLcmzKcz cZKLcmzKCmzKc zKLcnzKcmzk
-                                czKcmzKcz czKLcmzKLc czk</p>
+                            <p className="text-justify about_text" style={{color:theme.text}}> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut dolorum doloribus distinctio magni, ea id esse doloremque. Praesentium consequatur, perspiciatis quisquam, quis eveniet ratione a temporibus corporis ex culpa accusantium. </p>
                         </div>
                     </div>
                 </div>
