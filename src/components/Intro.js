@@ -29,7 +29,7 @@ const Inro = () => {
                                 </h1>
                         </div>
                         <Fade top delay={200}>
-                        <div className="d-xl-flex justify-content-xl-start mb-40"><a href="https://drive.google.com/file/d/1I6OrUMmM7_v9S1iEhl-7J1_Hcy1AwfCn/view?usp=sharing" className="btn" type="button" style={{backgroundColor: "#4070f4",color: theme.btntxtclr}}>Download Resume</a></div>
+                        <div className="d-xl-flex justify-content-xl-start mb-40"><a href="https://drive.google.com/file/d/1I6OrUMmM7_v9S1iEhl-7J1_Hcy1AwfCn/view?usp=sharing" target="_blank" className="btn" type="button" style={{backgroundColor: "#4070f4",color: theme.btntxtclr}}>Download Resume</a></div>
                         </Fade>
                         <Fade top delay={700} cascade>
                         <div>
