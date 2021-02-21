@@ -5,11 +5,11 @@ Dark Mode given in website using hooks in react js
 ## Screenshots
 
 Home Page (Light Theme)
-![Home Page](/src/screenshots/Capture1.png?raw=true "Optional Title")
+![Home Page](/src/Screenshots/Capture1.PNG?raw=true "Optional Title")
 Home Page (Dark Theme)
-![Dark Theme](/src/screenshots/Capture2.png?raw=true "Optional Title")
+![Dark Theme](/src/Screenshots/Capture2.PNG?raw=true "Optional Title")
 Skills
-![Skills](/src/screenshots/Capture3.png?raw=true "Optional Title")
+![Skills](/src/Screenshots/Capture3.PNG?raw=true "Optional Title")
 
 ## Available Scripts
 
