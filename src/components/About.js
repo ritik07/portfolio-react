@@ -43,7 +43,7 @@ const About = () => {
                             <h1 className="d-flex justify-content-center justify-content-xl-start about_subtitle" style={{color:theme.text}}>I'am Ritik</h1>
                         </div>
                         <div>
-                            <p className="text-justify about_text" style={{color:theme.text}}> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut dolorum doloribus distinctio magni, ea id esse doloremque. Praesentium consequatur, perspiciatis quisquam, quis eveniet ratione a temporibus corporis ex culpa accusantium. </p>
+                            <p className="text-justify about_text" style={{color:theme.text}}>I am currently working on react js and node js, and learning react native.<br/> Am skilled in developing REST API's and integrating them using GraphQL Gateway.</p>
                         </div>
                     </div>
                 </div>
