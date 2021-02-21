@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Go to Live Website](https://ritik07.github.io/portfolio-react/)
+
+Dark Mode given in website using hooks in react js 
+
+## Screenshots
+
+Home Page (Light Theme)
+![Home Page](/src/screenshots/Capture1.png?raw=true "Optional Title")
+Home Page (Dark Theme)
+![Dark Theme](/src/screenshots/Capture2.png?raw=true "Optional Title")
+Skills
+![Skills](/src/screenshots/Capture3.png?raw=true "Optional Title")
 
 ## Available Scripts
 
