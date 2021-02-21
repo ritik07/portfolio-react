@@ -37,7 +37,9 @@ const Skills = () => {
                                 </Fade>
                                 <Fade top delay={450}>
                                 <div className="skill_text text-align-l" style={{ color: theme.text }}>
-                                    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea laboriosam, corporis doloremque ducimus repudiandae sit, voluptas ipsa magni saepe deserunt nihil voluptate accusamus ab nostrum! Dolorum, repudiandae ratione. Quo, modi. </p>
+                                    <p> 
+        I am currently working on react js and node js, and learning react native.<br/> Am skilled in developing REST API's and integrating them using GraphQL Gateway.
+        </p>
                                 </div>
                                 </Fade>
                                 <div>
